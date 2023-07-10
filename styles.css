@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+th{
+	padding:5px 10px;
+	border-bottom:2px solid darkcyan
+	
+}
+table{
+	border:5px solid darkcyan
+}
+td{
+	padding:3px 10px;
+	border-bottom:1px solid gray
+}
